@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atv3-Exrc2</string>
+    <string name="nome">Otávio Gabriel Ribeiro Scabio - RA 1110482223043</string>
+    <string name="etConsumo">Consumo Médio (km/l)</string>
+    <string name="Tanque">Quantidade de Combustível atual</string>
+    <string name="Calcular">Calcular</string>
+</resources>
